@@ -1,0 +1,26 @@
+/* Profile.css */
+.profile-container {
+  max-width: 400px;
+  margin: 2rem auto;
+}
+
+.profile-avatar-section {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.profile-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+}
+
+.profile-form {
+  margin-top: 1rem;
+}
+
+.profile-password-section {
+  margin-top: 2rem;
+} 
